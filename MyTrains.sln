@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrains.Core", "MyTrains.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrains.Droid", "MyTrains.Droid\MyTrains.Droid.csproj", "{A24AF70B-7A87-49CF-95AC-D6F49A3B5D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrains.Localization", "..\..\..\..\Downloads\Pluralsight\mvvm-based-architecture-xamarin-mobile-apps\MyTrains\MyTrains.Localization\MyTrains.Localization.csproj", "{D9032FC3-4F9D-4117-8AC1-C14C46B78A79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrains.Localization", "MyTrains.Localization\MyTrains.Localization.csproj", "{D9032FC3-4F9D-4117-8AC1-C14C46B78A79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
